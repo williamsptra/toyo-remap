@@ -88,15 +88,5 @@
         { "label":         "→", "x":    15, "y": 5.5 }
       ]
     }
-  },
-  "sensors": [
-    {
-      "ref": "encoder_1",
-      "name": "encoder_1",
-      "identifier": "encoder_1",
-      "compatible": "alps,ec11",
-      "label": "Encoder 1",
-      "enabled": true
-    }
-  ]
+  }
 }
